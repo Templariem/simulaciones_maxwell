@@ -149,7 +149,7 @@ st.markdown("""
 <div class="footer">
     <p><strong>Creado por:</strong> Ph.D Student Giovanni Cocca-Guardia</p>
     <p><strong>Asistido por:</strong> Gemini Pro 3.1 & Claude Opus 4.6</p>
-    <p>🔗 <strong>GitHub:</strong> <a href="#" style="color: #FFD700;">[Repositorio próximamente]</a></p>
+    <p>🔗 <strong>GitHub:</strong> <a href="https://github.com/Templariem/simulaciones_maxwell" style="color: #FFD700;" target="_blank">Repositorio oficial</a></p>
     <p>🏛️ <strong>Escuela de Ingeniería Eléctrica</strong></p>
     <p>🏰 <strong>Pontificia Universidad Católica de Valparaíso</strong></p>
     <p><strong>🇨🇱 Chile 🍷🗿</strong></p>
