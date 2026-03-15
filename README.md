@@ -1,8 +1,8 @@
-# ⚡ Ecuaciones de Maxwell — Simulaciones Interactivas
-
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?logo=streamlit)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+# ⚡ Ecuaciones de Maxwell — Simulaciones Interactivas
 
 > **Maxwell's Equations — Interactive Simulations**
 
