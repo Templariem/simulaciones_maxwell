@@ -80,11 +80,6 @@ pip install streamlit
 # 3. Ejecutar la aplicación / Run the application
 streamlit run Home.py
 ```
-
-La aplicación se abrirá automáticamente en `http://localhost:8501`.
-
-*The app will automatically open at `http://localhost:8501`.*
-
 ---
 
 ## 📁 Estructura del Proyecto / Project Structure
