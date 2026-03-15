@@ -6,9 +6,20 @@
 
 > **Maxwell's Equations — Interactive Simulations**
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://TU-LINK-DE-STREAMLIT.streamlit.app)
+
 Aplicación web interactiva construida con [Streamlit](https://streamlit.io/) que visualiza las cuatro ecuaciones de Maxwell y sus consecuencias físicas mediante simulaciones en tiempo real renderizadas con Canvas/JavaScript.
 
 *Interactive web application built with [Streamlit](https://streamlit.io/) that visualizes Maxwell's four equations and their physical consequences through real-time simulations rendered with Canvas/JavaScript.*
+
+---
+
+### 🚀 Pruébalo en vivo / Try it live
+Puedes interactuar con las simulaciones directamente en tu navegador sin instalar nada haciendo clic en el botón de arriba o en el siguiente enlace:
+[**👉 Ejecutar simulaciones en Streamlit**](https://TU-LINK-DE-STREAMLIT.streamlit.app)
+
+*You can interact with the simulations directly in your browser without installing anything by clicking the button above or the following link:*
+[**👉 Play with the simulations on Streamlit**](https://TU-LINK-DE-STREAMLIT.streamlit.app)
 
 ---
 
