@@ -107,13 +107,12 @@ Maxwell Laws/
 ## 🎨 Características Técnicas / Technical Features
 
 - **Renderizado en tiempo real**: Todas las simulaciones usan `<canvas>` de HTML5 con JavaScript vanilla, embebido en Streamlit via `st.components.v1.html()`.
-- **Partículas de flujo**: Las simulaciones de campo usan entre 4000–6000 partículas con gradientes de color (verde-blanco) para visualizar la intensidad del campo.
+- **Partículas de flujo**: Las simulaciones de campo usan entre 4000–6000 partículas con gradientes de color para visualizar la intensidad del campo.
 - **Física determinista**: Los electrones del circuito Poynting usan un generador pseudoaleatorio con semilla fija y posiciones calculadas analíticamente para evitar saltos al cambiar de estado.
 - **Proyección 3D**: La onda plana, radial y el capacitor de Maxwell usan un motor de proyección 3D con algoritmo del pintor para el ordenamiento en profundidad.
-- **Colormaps personalizados**: Las ondas EM usan un colormap directo Rojo (#9C2A2A) ↔ Azul (#D9EEFF) sin paso por blanco.
 - **Bilingüe**: Todas las descripciones tienen versión en español (visible) e inglés (en expander colapsado).
 
-*All simulations use HTML5 `<canvas>` with vanilla JavaScript, embedded in Streamlit. Particle systems use 4000–6000 flow particles with color gradients. Deterministic seeded random for electron positions. Custom Red↔Blue colormap for EM waves. Bilingual descriptions (Spanish + collapsible English).*
+*All simulations use HTML5 `<canvas>` with vanilla JavaScript, embedded in Streamlit. Particle systems use 4000–6000 flow particles with color gradients. Deterministic seeded random for electron positions. Bilingual descriptions (Spanish + collapsible English).*
 
 ---
 
