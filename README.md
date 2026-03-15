@@ -133,6 +133,8 @@ Maxwell Laws/
 
 ## 📜 Licencia / License
 
-Este proyecto es de uso educativo y de divulgación científica.
+Este proyecto está bajo la licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+Eres libre de usar, modificar y compartir estas simulaciones con fines educativos y de divulgación, siempre y cuando des el crédito correspondiente, no lo uses con fines comerciales y compartas tus modificaciones bajo esta misma licencia.
 
-*This project is intended for educational and scientific outreach purposes.*
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
+You are free to use, modify, and share these simulations for educational and outreach purposes, provided that you give appropriate credit, do not use them for commercial purposes, and distribute your contributions under this same license.
