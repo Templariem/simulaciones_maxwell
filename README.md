@@ -14,13 +14,13 @@ Aplicación web interactiva construida con [Streamlit](https://streamlit.io/) qu
 
 ### 🎮 Pruébalo en vivo / Try it live
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://TU-LINK-DE-STREAMLIT.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://simulacionesmaxwell-gcg.streamlit.app/?embed_options=dark_theme)
 
 Puedes interactuar con las simulaciones directamente en tu navegador sin instalar nada haciendo clic en el botón de arriba o en el siguiente enlace:
-[**👉 Ejecutar simulaciones en Streamlit**](https://TU-LINK-DE-STREAMLIT.streamlit.app)
+[**👉 Ejecutar simulaciones en Streamlit**](https://simulacionesmaxwell-gcg.streamlit.app/?embed_options=dark_theme)
 
 *You can interact with the simulations directly in your browser without installing anything by clicking the button above or the following link:*
-[**👉 Play with the simulations on Streamlit**](https://TU-LINK-DE-STREAMLIT.streamlit.app)
+[**👉 Play with the simulations on Streamlit**](https://simulacionesmaxwell-gcg.streamlit.app/?embed_options=dark_theme)
 
 ---
 
