@@ -11,7 +11,7 @@ Aplicación web interactiva construida con [Streamlit](https://streamlit.io/) qu
 *Interactive web application built with [Streamlit](https://streamlit.io/) that visualizes Maxwell's four equations and their physical consequences through real-time simulations rendered with Canvas/JavaScript.*
 
 <p align="center">
-  <img src="assets/mosaico_simulaciones.png" width="100%" alt="Mosaico de algunas simulaciones de Maxwell">
+  <img src="assets/mosaico_simulaciones.jpg" width="100%" alt="Mosaico de algunas simulaciones de Maxwell">
 </p>
 
 ---
