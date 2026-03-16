@@ -83,11 +83,11 @@ Flujo de energía electromagnética en un circuito eléctrico con vector de Poyn
 
 ```bash
 # 1. Clonar el repositorio / Clone the repository
-git clone https://github.com/<tu-usuario>/maxwell-laws.git
-cd maxwell-laws
+git clone https://github.com/Templariem/simulaciones_maxwell
+cd simulaciones_maxwell
 
 # 2. Instalar dependencias / Install dependencies
-pip install streamlit
+pip install -r requirements.txt
 
 # 3. Ejecutar la aplicación / Run the application
 streamlit run Home.py
@@ -97,16 +97,19 @@ streamlit run Home.py
 ## 📁 Estructura del Proyecto / Project Structure
 
 ```
-Maxwell Laws/
-├── Home.py                              # Página principal / Main page
-├── README.md                            # Este archivo / This file
+simulaciones_maxwell/
+├── Home.py                      # Página principal / Main page
+├── README.md                    # Este archivo / This file
+├── LICENSE                      # Licencia CC BY-NC-SA 4.0 / License
+├── requirements.txt             # Dependencias del proyecto / Dependencies
+├── assets/                      # Imágenes y recursos visuales / Visual assets
 ├── pages/
-│   ├── 1_Ley_de_Gauss_E.py             # Gauss (E) — Campo eléctrico
-│   ├── 2_Ley_de_Gauss_B.py             # Gauss (B) — Campo magnético
-│   ├── 3_Ley_de_Ampere-Maxwell.py      # Ampère + Maxwell
-│   ├── 4_Ley_de_Faraday.py             # Faraday — Inducción
-│   ├── 5_Propagacion_Ondas_EM.py       # Ondas electromagnéticas
-│   └── 6_Circuito_Poynting.py          # Vector de Poynting
+│   ├── 1_Ley_de_Gauss_E.py      # Gauss (E) — Campo eléctrico
+│   ├── 2_Ley_de_Gauss_B.py      # Gauss (B) — Campo magnético
+│   ├── 3_Ley_de_Ampere-Maxwell.py # Ampère + Maxwell
+│   ├── 4_Ley_de_Faraday.py      # Faraday — Inducción
+│   ├── 5_Propagacion_Ondas_EM.py  # Ondas electromagnéticas
+│   └── 6_Circuito_Poynting.py   # Vector de Poynting
 ```
 
 ---
